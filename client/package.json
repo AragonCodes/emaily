@@ -5,6 +5,7 @@
   "homepage": "https://agile-falls-82783.herokuapp.com/",
   "dependencies": {
     "axios": "^0.19.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "http-proxy-middleware": "^0.20.0",
     "materialize-css": "^1.0.0",
     "react": "^16.11.0",
@@ -37,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "plugins": [
+    "transform-object-rest-spread"
+  ]
 }
