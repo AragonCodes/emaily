@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Landing should render correctly 1`] = `
+"<div className=\\"center\\">
+  <div className=\\"red accent-2\\" style={{...}}>
+    <img src=\\"mail_white.svg\\" style={{...}} />
+  </div>
+  <h1>
+    Emaily!
+  </h1>
+  <h4>
+    Collect feedback form your users
+  </h4>
+</div>"
+`;

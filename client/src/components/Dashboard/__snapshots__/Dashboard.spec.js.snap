@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard should render correctly 1`] = `
+"<div>
+  <div>
+    <div className=\\"card darken-1\\">
+      <div className=\\"card-content\\">
+        <span className=\\"card-title\\">
+          A real campaign
+        </span>
+        <p>
+          Did you like the service provided by Aragoncodes
+        </p>
+        <p className=\\"right\\">
+          Sent On: 
+          2/5/2020
+        </p>
+      </div>
+      <div className=\\"card-action\\">
+        <a className=\\"red-text text-accent-2\\">
+          Yes: 
+          1
+        </a>
+        <a className=\\"red-text text-accent-2\\">
+          No: 
+          0
+        </a>
+      </div>
+    </div>
+  </div>
+  <div className=\\"fixed-action-btn\\">
+    <Link to=\\"/surveys/new\\" className=\\"btn-floating pulse btn-large red accent-2\\">
+      <i className=\\"material-icons\\">
+        add
+      </i>
+    </Link>
+  </div>
+</div>"
+`;

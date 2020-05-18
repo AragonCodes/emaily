@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SurveyForm should render correctly 1`] = `"<Hoc handleSubmit={[Function: mockConstructor]} onSurveySubmit={[Function: mockConstructor]} touchOnBlur={true} touchOnChange={false} persistentSubmitErrors={false} destroyOnUnmount={false} shouldAsyncValidate={[Function: defaultShouldAsyncValidate]} shouldValidate={[Function: defaultShouldValidate]} shouldError={[Function: defaultShouldError]} shouldWarn={[Function: defaultShouldWarn]} enableReinitialize={false} keepDirtyOnReinitialize={false} updateUnregisteredFields={false} getFormState={[Function: getFormState]} pure={true} forceUnregisterOnUnmount={false} submitAsSideEffect={false} validate={[Function: validate]} form=\\"surveyForm\\" forwardedRef={{...}} />"`;

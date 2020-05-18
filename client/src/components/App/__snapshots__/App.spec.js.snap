@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render correctly 1`] = `
+"<div style={{...}}>
+  <BrowserRouter>
+    <Connect(Header) />
+    <div className=\\"container\\" style={{...}}>
+      <Route exact={true} path=\\"/\\" component={{...}} />
+      <Route exact={true} path=\\"/surveys\\" component={{...}} />
+      <Route path=\\"/surveys/new\\" component={{...}} />
+    </div>
+  </BrowserRouter>
+</div>"
+`;

@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header should render correctly 1`] = `
+"<nav className=\\"red accent-2\\">
+  <div className=\\"nav-wrapper\\" style={{...}}>
+    <Link style={{...}} to=\\"/surveys\\" className=\\"left brand-logo valign-wrapper\\">
+      <span className=\\"valign-wrapper\\" style={{...}}>
+        <span className=\\"logoText\\">
+          Emaily
+        </span>
+        <img src=\\"mail_white.svg\\" style={{...}} />
+      </span>
+    </Link>
+    <ul className=\\"right nav-mobile\\">
+      <li>
+        <Connect(Payments) />
+      </li>
+      <li style={{...}}>
+        Credits: 
+        1
+      </li>
+      <li>
+        <a href=\\"/api/logout\\">
+          Logout
+        </a>
+      </li>
+    </ul>
+  </div>
+</nav>"
+`;
